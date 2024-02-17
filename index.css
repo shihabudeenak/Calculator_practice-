@@ -82,5 +82,7 @@ button:active{
   text-align: center;
   margin: auto;
   display: block; 
-  margin-bottom: 10px;
-  padding-bottom: 0;}
+  margin-bottom: 20px;
+  margin-top:20px;
+  padding-bottom: 0;
+  }
