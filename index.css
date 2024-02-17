@@ -76,3 +76,11 @@ button:active{
   background-color: rgba(212, 226, 18, 0.74);
   
 }
+
+
+  
+.attribution a { font-size: 11px; 
+  text-align: center; 
+  display: block; 
+  margin-bottom: 10px;
+  padding-bottom: 0;}
